@@ -1,0 +1,28 @@
+# Core AI/ML
+langchain==0.1.0
+langgraph==0.0.20
+langsmith==0.0.87
+openai==1.6.1
+
+# Vector Databases
+chromadb==0.4.22
+faiss-cpu==1.7.4
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.3
+python-dotenv==1.0.0
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Web Framework
+streamlit==1.29.0
+fastapi==0.108.0
+uvicorn==0.25.0
+
+# Utilities
+pydantic==2.5.0
+typing-extensions==4.8.0
+python-multipart==0.0.6
